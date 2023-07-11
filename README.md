@@ -17,9 +17,9 @@ Esse projeto foi criado utilizando as tecnologias:
 Clone o projeto com o comando abaixo:
 ```bash
   # Clone o repositório
-  ❯ git clone https://github.com/[usuario]/[nome-projeto].git
+  ❯ git clone https://github.com/Israel-Melo/Atividade01.git
 	# Entre no diretório
-  ❯ cd [nome-projeto]
+  ❯ cd Atividade01
 	# Execute o projeto
   ❯ dotnet run
 ```
